@@ -1,5 +1,5 @@
 
-# Contributing to EOSIO SDK for Swift: Vault
+# Contributing to Arisen SDK for Swift: Vault
 
 Interested in contributing? That's awesome! Here are some guidelines to get started quickly and easily:
 
@@ -69,7 +69,7 @@ To get it out of the way:
 
 ### Developing With Local Pods
 
-By default, pods are installed from remote CocoaPods. If, however, you wish to develop locally and you'd like to integrate with locally-cloned versions of EOSIO SDK for Swift and/or other Providers, follow these instructions:
+By default, pods are installed from remote CocoaPods. If, however, you wish to develop locally and you'd like to integrate with locally-cloned versions of Arisen SDK for Swift and/or other Providers, follow these instructions:
 
 1. Clone this and other repos into the same directory, as siblings of one another.
 1. Export the environment variable `USE_LOCAL_PODS` and set it to `'true'` and then run `pod install` in this and other projects as necessary or for only one repository you can combine the two with `USE_LOCAL_PODS='true' pod install`.  If `USE_LOCAL_PODS` is not set or is any other value than `'true'` then the pods will all be installed from remote CocoaPods.

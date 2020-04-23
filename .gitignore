@@ -51,8 +51,8 @@ docs/undocumented.json
 #
 Pods/
 xcworkspace.projects/
-EosioSwiftVault.xcworkspace/contents.xcworkspacedata
-EosioSwiftVault.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+ArisenSwiftVault.xcworkspace/contents.xcworkspacedata
+ArisenSwiftVault.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
 
 # Carthage
 #
@@ -74,4 +74,4 @@ fastlane/screenshots/**/*.png
 fastlane/test_output
 
 .DS_Store
-docs/docsets/EosioSwiftVault.docset/Contents/Resources/Documents/undocumented.json
+docs/docsets/ArisenSwiftVault.docset/Contents/Resources/Documents/undocumented.json
